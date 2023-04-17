@@ -1,4 +1,4 @@
-# pytorch_cuda_opencv_ffcv_docker
+# Pytorch Cuda Opencv FFCV Docker
 This repo contains a Dockerfile to build a docker image with opencv with cuda enabled, pytorch and ffcv.
 
 # Why this docker
